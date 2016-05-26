@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49F8801D1CF6B34D007853C9 /* PlaySoundsViewController+Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F8801C1CF6B34D007853C9 /* PlaySoundsViewController+Audio.swift */; };
 		672432A91CF24C7000A16E97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672432A81CF24C7000A16E97 /* AppDelegate.swift */; };
 		672432AB1CF24C7000A16E97 /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672432AA1CF24C7000A16E97 /* RecordSoundsViewController.swift */; };
 		672432AE1CF24C7000A16E97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 672432AC1CF24C7000A16E97 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		49F8801C1CF6B34D007853C9 /* PlaySoundsViewController+Audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlaySoundsViewController+Audio.swift"; sourceTree = "<group>"; };
 		672432A51CF24C7000A16E97 /* PitchPerfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PitchPerfect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		672432A81CF24C7000A16E97 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		672432AA1CF24C7000A16E97 /* RecordSoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordSoundsViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				672432AA1CF24C7000A16E97 /* RecordSoundsViewController.swift */,
 				672432AC1CF24C7000A16E97 /* Main.storyboard */,
 				67C6270A1CF50E2A00D304F5 /* PlaySoundsViewController.swift */,
+				49F8801C1CF6B34D007853C9 /* PlaySoundsViewController+Audio.swift */,
 				672432AF1CF24C7000A16E97 /* Assets.xcassets */,
 				672432B11CF24C7000A16E97 /* LaunchScreen.storyboard */,
 				672432B41CF24C7000A16E97 /* Info.plist */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				672432AB1CF24C7000A16E97 /* RecordSoundsViewController.swift in Sources */,
+				49F8801D1CF6B34D007853C9 /* PlaySoundsViewController+Audio.swift in Sources */,
 				67C6270B1CF50E2A00D304F5 /* PlaySoundsViewController.swift in Sources */,
 				672432A91CF24C7000A16E97 /* AppDelegate.swift in Sources */,
 			);
